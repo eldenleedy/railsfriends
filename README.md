@@ -1,2 +1,2 @@
 # railsfriends
-First ruby on rails app to teach it to myself.
+First ruby on rails app to teach myself.
