@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ .remove-submit-btn-style {
+    background: none;
+    border: none;
+  }
